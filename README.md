@@ -4,7 +4,7 @@ Hi! I’m **Sahra Sarı**, a Computer Engineering student interested in **machin
 I enjoy building **production-ready software**, exploring **ML research ideas**, and turning theory into clean, working code.
 
 ### 🔭 Currently Working On
-- ML & representation learning projects  
+- ML & DL projects  
 - Full-stack development with **React.js, .NET, and C#**  
 - Team and academic projects combining software engineering and ML
 
