@@ -42,8 +42,6 @@ I enjoy building **production-ready software**, exploring **ML research ideas**,
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sahrasri&theme=github_dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=sahrasri&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahrasri&theme=github_dark&hide_border=false&layout=compact)
 
 ---
