@@ -39,9 +39,6 @@ I enjoy building **production-ready software**, exploring **ML research ideas**,
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=sahrasri&theme=github_dark&hide_border=false)
 
 ---
